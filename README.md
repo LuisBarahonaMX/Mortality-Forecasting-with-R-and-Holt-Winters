@@ -4,7 +4,7 @@
 
 ![Time Series Analysis in R — Grow Up Data Analytics](https://uploads.teachablecdn.com/attachments/de54efffce16408789111ea3af42fc61.png)
 
-*Image source: [Grow Up Data Analytics — Time Series Analysis in R](https://escuela.growupcr.com/p/series-tiempo-r). External educational image, credited to its original publisher.*
+*Image source: [Grow Up Data Analytics — Time Series Analysis in R](https://www.ides.org.ar/formacion/curso-virtual/analisis-visualizacion-datos-r). External educational image, credited to its original publisher.*
 
 **Project Type:** Academic Data Science and Public Health Analytics  
 **Field:** Data Science | Time Series Analysis | Statistical Forecasting | Health Data Analytics  
