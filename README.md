@@ -2,7 +2,7 @@
 
 ### Disease-Related Mortality Analysis, Exponential Smoothing, and Public Health Data Exploration
 
-![Time Series Analysis in R — Grow Up Data Analytics](https://uploads.teachablecdn.com/attachments/de54efffce16408789111ea3af42fc61.png)
+![Time Series Analysis in R — Grow Up Data Analytics](https://www.ides.org.ar/formacion/curso-virtual/analisis-visualizacion-datos-r)
 
 *Image source: [Grow Up Data Analytics — Time Series Analysis in R](https://www.ides.org.ar/formacion/curso-virtual/analisis-visualizacion-datos-r). External educational image, credited to its original publisher.*
 
